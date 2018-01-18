@@ -1,0 +1,11 @@
+body {background-color:rgba(30, 255, 0, 0.726)}
+h1 {color:red;text-align: left;margin: initial;}
+
+p {font-family: "Times New Roman";
+    font-size: 15px;
+    margin: 20px;}
+
+    a{
+        position: initial;
+    }
+/*p1 {font-style: italic; color: red;}*/
